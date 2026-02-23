@@ -1,7 +1,4 @@
-<h2 align="left">Hello! My name is tscanta and I like to code and create new things.</h2>
-
-<h1 align="center">Hii I am tscanta</h1>
-<h3 align="center">I love art</h3>
+<h1 align="center">Hello! My name is tscanta and I like to code and create new things.</h1>
 
 - I’m currently working on **bachelors degree in CS**
 
