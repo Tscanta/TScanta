@@ -1,16 +1,4 @@
-<h1 align="center">Hello! My name is tscanta and I like to code and create new things.</h1>
-
-- I’m currently working on **bachelors degree in CS**
-
-- I’m currently enhancing my skills in **C++**
-
-- All of my projects are available at [https://github.com/Tscanta](https://github.com/Tscanta)
-
-- Ask me about **tech, music, movies and games**
-
-- Email me at **tshedupghissing805@gmail.com**
-
-- Fun fact **I make music on the side**
+<h1 align="center">Hello!.</h1>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
