@@ -1,5 +1,5 @@
 # About Me:
-Aside from coding I like painting, watching movies and also sometimes I produce music on the side.
+Aside from coding I like g, watching movies and also sometimes I produce music on the side.
 
 Currently focusing on learning new languages and expanding my knowledge.
 
