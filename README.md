@@ -1,8 +1,6 @@
 # About Me:
 Aside from coding I like painting, movies and also sometimes I produce music on the side.
 
-Currently focusing on learning new languages and expanding my knowledge.
-
 Current status: Learning JS, Learning SQl, Studying cs50p
 
 
