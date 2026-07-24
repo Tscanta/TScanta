@@ -1,7 +1,7 @@
 # About Me:
 Aside from coding I like painting, movies and also sometimes I produce music on the side.
 
-Current status: Learning JS, Learning SQl, Studying cs50p. <br>
+Current status: Learning JS, Learning SQl, Learning React, Studying cs50p. <br>
 Working on: SnapeText, UfoSphinx.
 
 # Socials:
