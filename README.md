@@ -14,31 +14,18 @@ Working on: SnapeText, UfoSphinx.
 # GitHub Stats:
 <table align="center">
   <tr>
-    <td width="50%" align="center">
-      <img
-        src="https://github-readme-stats.shion.dev/api?username=Tscanta&theme=dark&hide_border=false&include_all_commits=false&count_private=false"
-        width="100%"
-        height="500"
-      />
+    <td>
+      <img src="https://github-readme-stats.shion.dev/api?username=Tscanta&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="420" />
     </td>
-    <td width="50%" align="center">
-      <img
-        src="https://github-readme-stats.shion.dev/api/top-langs/?username=Tscanta&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"
-        width="100%"
-        height="190"
-      />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img
-        src="https://streak-stats.demolab.com/?user=Tscanta&theme=dark&hide_border=false"
-        width="100%"
-        height="200"
-      />
+    <td>
+      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Tscanta&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="420" />
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Tscanta&theme=dark&hide_border=false&card_width=880" />
+</p>
 ---
 
 [![](https://komarev.com/ghpvc/?username=Tscanta&icon=0&color=0)](https://visitcount.itsvg.in)
