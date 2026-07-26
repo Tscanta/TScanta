@@ -15,8 +15,7 @@ Working on: SnapeText, UfoSphinx.
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.shion.dev/api?username=Tscanta&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="420" />
-    </td>
+<img src="https://github-readme-stats.shion.dev/api?username=Tscanta&theme=dark&hide_border=false&include_all_commits=false&count_private=false&line_height=32" width="420" />    </td>
     <td>
       <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Tscanta&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="420" />
     </td>
