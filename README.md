@@ -12,10 +12,33 @@ Working on: SnapeText, UfoSphinx.
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) 
 
 # GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Tscanta&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Tscanta&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Tscanta&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+<table align="center">
+  <tr>
+    <td width="50%" align="center">
+      <img
+        src="https://github-readme-stats.shion.dev/api?username=Tscanta&theme=dark&hide_border=false&include_all_commits=false&count_private=false"
+        width="100%"
+        height="500"
+      />
+    </td>
+    <td width="50%" align="center">
+      <img
+        src="https://github-readme-stats.shion.dev/api/top-langs/?username=Tscanta&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"
+        width="100%"
+        height="190"
+      />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img
+        src="https://streak-stats.demolab.com/?user=Tscanta&theme=dark&hide_border=false"
+        width="100%"
+        height="200"
+      />
+    </td>
+  </tr>
+</table>
 ---
 
 [![](https://komarev.com/ghpvc/?username=Tscanta&icon=0&color=0)](https://visitcount.itsvg.in)
