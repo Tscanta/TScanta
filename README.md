@@ -1,6 +1,6 @@
 # About Me:
 Aside from coding I like painting, making music, and watching movies. <br>
-Current status: Learning JS, Learning React, Studying cs50p. <br>
+What I am doing rn: Learning JS, Learning React, Studying cs50p. <br>
 Working on: SnapeText, UfoSphinx.
 
 # Socials:
