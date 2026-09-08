@@ -28,4 +28,4 @@ Working on: SnapeText, UfoSphinx.
 
 ---
 
-[![](https://komarev.com/ghpvc/?username=Tscanta&icon=0&color=0)](https://visitcount.itsvg.in)
+![Profile Views](https://komarev.com/ghpvc/?username=tscanta&color=blue)
