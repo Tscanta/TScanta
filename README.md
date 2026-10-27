@@ -1,6 +1,6 @@
 # About Me:
 Aside from coding I like painting, making music, and watching movies. <br>
-What I am doing rn: Studying cs50p, C# <br>
+What I am doing rn: Studying cs50p, C# <br> 
 Working on: fruit-fly-neural-sim
 
 # Socials:
