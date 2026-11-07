@@ -12,7 +12,7 @@ Working on: fruit-fly-neural-sim
 
 
 <p align="center">
-  <img src="koi/koi.gif" width="384" alt="My GitHub activity koi" />
+  <img src="koi/koi.gif" width="256" alt="My GitHub activity koi" />
 </p>
 
 
